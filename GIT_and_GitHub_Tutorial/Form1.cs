@@ -20,6 +20,7 @@ namespace GIT_and_GitHub_Tutorial
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello GIT + GitHubTutorial!");
+            //Adding Comment 1 Philipp´s Work PC 10.05.2016 17:38h
         }
     }
 }
