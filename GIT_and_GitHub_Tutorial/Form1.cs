@@ -24,6 +24,7 @@ namespace GIT_and_GitHub_Tutorial
             //Adding Comment 2 Philipp´s MacMini 05.10.2016 17:48h
             //Adding Comment 3 MacMini 18:37h
             //Adding Comment 4 Philipp Work PC 18:43h
+            //Comment 5
         }
     }
 }
