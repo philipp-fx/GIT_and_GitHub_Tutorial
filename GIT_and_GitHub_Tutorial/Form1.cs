@@ -22,6 +22,7 @@ namespace GIT_and_GitHub_Tutorial
             MessageBox.Show("Hello GIT + GitHubTutorial!");
             //Adding Comment 1 Philipp´s Work PC 10.05.2016 17:38h
             //Adding Comment 2 Philipp´s MacMini 05.10.2016 17:48h
+            //Adding Comment 3 MacMini 18:37h
         }
     }
 }
