@@ -33,5 +33,11 @@ namespace GIT_and_GitHub_Tutorial
             //Need to commit to resolve Conflict
             //Need to commit to resolve Conflict 3
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 ShowForm2 = new Form2();
+            ShowForm2.Show();
+        }
     }
 }
