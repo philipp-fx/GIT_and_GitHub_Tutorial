@@ -32,6 +32,8 @@ namespace GIT_and_GitHub_Tutorial
             //Comment 10
             //Need to commit to resolve Conflict
             //Need to commit to resolve Conflict 3
+
+            //Form1 Comment  
         }
 
         private void button2_Click(object sender, EventArgs e)
