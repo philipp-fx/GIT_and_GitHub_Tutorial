@@ -31,6 +31,7 @@ namespace GIT_and_GitHub_Tutorial
             //Comment 9
             //Comment 10
             //Need to commit to resolve Conflict
+            //Need to commit to resolve Conflict 3
         }
     }
 }
